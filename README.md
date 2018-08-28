@@ -2,4 +2,4 @@
 
 * Color Game from *The Web Developer Bootcamp* by *Colt Steele*
 
-Viewable on Codepen: [colorGame](https://codepen.io/FreeFly/pen/jKRVQp)
+Viewable on GitHub Pages: [colorGame](https://freeflyfall.github.io/colorGame/)
